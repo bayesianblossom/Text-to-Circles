@@ -1,0 +1,6 @@
+matplotlib
+python-math
+pandas
+regex
+numpy
+streamlit
